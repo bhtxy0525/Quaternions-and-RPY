@@ -1,2 +1,2 @@
-# Quatertions-and-RPY
-The transformation between Quatertions and RPY
+# Quaternions and RPY
+The transformation between Quaternions and RPY
